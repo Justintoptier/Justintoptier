@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently  Learning Java!<br>👯 I’m looking to collaborate on Real-time cool projects<br>💬 Ask me about : Python,DSA<br>⚡ Fun fact : I play Chess
+🔭 I’m currently  Learning Python Backend!<br>👯 I’m looking to collaborate on Real-time cool projects<br>💬 Ask me about : Python,DSA<br>⚡ Fun fact : I play Chess
 
 
 ## 🌐 Socials:
